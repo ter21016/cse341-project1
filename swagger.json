@@ -5,7 +5,7 @@
     "description": "This is the second part of the contacts API. This is a BUY Idaho project.",
     "version": "1.0.0"
   },
-  "host": "https://cse341-project1-0z0t.onrender.com/",
+  "host": "cse341-project1-0z0t.onrender.com/",
   "basePath": "/",
   "schemes": [
     
