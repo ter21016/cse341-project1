@@ -36,8 +36,8 @@ content-type: application/json
 }
 
 ### DELETE contact
-DELETE  http://localhost:8080/contacts/673e75243c22e7202d75eb62 HTTP/1.1 
-content-type: application/json
+DELETE  http://localhost:8080/contacts/ HTTP/1.1 
+
 
 
 
@@ -62,7 +62,8 @@ content-type: application/json
 }
 
 ### PUT contact 
-PUT https://cse341-project1-0z0t.onrender.com/contacts/673e8a4b27c50f39d29d49f3 HTTP/1.1 content-type: application/json
+PUT https://cse341-project1-0z0t.onrender.com/contacts/673e8a4b27c50f39d29d49f3 HTTP/1.1 
+content-type: application/json
 
 {
 "firstName":"Sarah", 
